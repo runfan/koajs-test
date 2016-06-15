@@ -1,0 +1,24 @@
+{
+  "name": "koajs-test",
+  "version": "0.1.0",
+  "description": "test to use koajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runfan/koajs-test.git"
+  },
+  "author": "cwfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runfan/koajs-test/issues"
+  },
+  "homepage": "https://github.com/runfan/koajs-test#readme",
+  "dependencies": {
+    "koa": "^2.0",
+    "koa-router": "^7.0.1",
+    "koa-views": "^5.0.2"
+  }
+}
